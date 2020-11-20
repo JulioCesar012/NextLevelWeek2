@@ -83,7 +83,7 @@ Projetos fullstack Next Level Week 2, Backend, Frontend e Mobile.
 </h2>
 
 <h2 align="center">
-    <img src="/screenshots/login.png">
+    <img src="/screenshots/initialapplication.png">
 </h2>
 
 <h2 align="center">
