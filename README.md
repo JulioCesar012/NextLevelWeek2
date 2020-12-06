@@ -89,5 +89,5 @@ Projetos fullstack Next Level Week 2, Backend, Frontend e Mobile.
     <img src="/screenshots/study.png">
 </h2>
 
-## 👨‍💻 Contribuidor
+## 👨‍💻 Contributor
 - @JulioCesar012
