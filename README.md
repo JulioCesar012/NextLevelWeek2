@@ -65,7 +65,6 @@ Projetos fullstack Next Level Week 2, Backend, Frontend e Mobile.
 - Typescript
 - Axios
 - react-router-dom
-- NodeJS
 
 💜 Backend:
 - Git
